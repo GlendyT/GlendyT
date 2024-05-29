@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GlendyT
 - 👀 I’m interested in  coding or programming
 - 🌱 I’m currently learning , and open to new ideas
-- 💞️ I’m looking to collaborate and learn how to create an app for begginers
 
 
 <!---
