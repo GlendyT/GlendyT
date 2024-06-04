@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlendyT
 - 👀 I’m interested in  coding or programming
-- 🌱 Everydat learning something new and open to new ideas
+- 🌱 Everyday learning something new and open to new ideas
 
 
 <!---
